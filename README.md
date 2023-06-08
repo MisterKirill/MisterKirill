@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-I code on Go and TypeScript
+I code on something
