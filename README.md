@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-My name is Kirill and I code in Rust and Node.JS
+My name is Kirill and I code in Go and Typescript.
 
-~~Currently working~~ will get back soon on [Firesnap](https://github.com/real-firesnap)
+Currently working on [Flowee](https://github.com/flowee-ru)
